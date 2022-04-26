@@ -64,9 +64,4 @@
 </table>
 
 
-## Ejemplo de GUI 
-
-
-![Ebay](img/img1.png)
-
 
